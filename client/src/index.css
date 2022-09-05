@@ -1,0 +1,22 @@
+*{
+  font-family: 'Google Sans', sans-serif;
+}
+body {
+  margin: 0;
+  font-family: 'Google Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: 'Google Sans';
+  src: url(font.ttf);
+}
+@font-face {
+  font-family: 'DevNagri New';
+  src: url(KRDEV010.TTF);
+}

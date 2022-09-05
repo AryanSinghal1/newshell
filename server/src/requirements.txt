@@ -1,0 +1,7 @@
+transformers
+torch
+keras
+nltk
+tensorflow
+wordfreq
+Flask
